@@ -9,5 +9,3 @@
 - 😂 I don't wear glasses because I can 
 
 ![output-onlinepngtools](https://user-images.githubusercontent.com/37398532/109967081-a90f8680-7cf9-11eb-9ac5-05bd22bae695.png)
-
-![ClainRvc's GitHub stats](https://github-readme-stats.vercel.app/api?username=racoltacalin&show_icons=true&theme=radical)
