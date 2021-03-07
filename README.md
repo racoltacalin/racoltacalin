@@ -10,3 +10,4 @@
 
 ![output-onlinepngtools](https://user-images.githubusercontent.com/37398532/109967081-a90f8680-7cf9-11eb-9ac5-05bd22bae695.png)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=racoltacalin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
