@@ -1,7 +1,7 @@
 
 ### Hi there, I'm Clain Rvc 👋
 
-- 🔭 I’m currently working on Quiz App :star2:
+- 🔭 I’m currently working at Qubiz :star2:
 - 🌱 I’m currently learning .NET✨ 
 - 📫 How to reach me: [Twitter - @RacoltaCalin](https://twitter.com/RacoltaCalin)
 - 😄 Pronouns: He/His 
