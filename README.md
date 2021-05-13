@@ -2,7 +2,7 @@
 ### Hi there, I'm Clain Rvc 👋
 
 - 🔭 I’m currently working at Qubiz :star2:
-- 🌱 I’m currently learning .NET✨ 
+- 🌱 I’m currently learning Xamarin✨ 
 - 📫 How to reach me: [Twitter - @RacoltaCalin](https://twitter.com/RacoltaCalin)
 - 😄 Pronouns: He/His 
 - ⚡ Fun fact: I love :spaghetti: but I don't like :spaghetti: code! :boom:
